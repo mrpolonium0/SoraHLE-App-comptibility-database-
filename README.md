@@ -12,3 +12,4 @@
 ⭐️⭐️⭐️⭐️⭐️: Everything works. The app is fully usable.
 
 "Please ensure that each entry includes a date, the game title, the application version, and a star-based rating."
+----------------------------------------------------------------------------------------------------------------------------
