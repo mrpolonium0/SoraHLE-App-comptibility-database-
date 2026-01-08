@@ -11,6 +11,7 @@
 
 ⭐️⭐️⭐️⭐️⭐️: Everything works. The app is fully usable.
 
-"Please ensure that each entry includes a date, the game title, the application version, and a star-based rating."
+"Please ensure that each entry includes a date, the game title, the application version, and a star-based rating and a screenshot."
 ----------------------------------------------------------------------------------------------------------------------------
---->  App name / Release year / Developer,Publisher /  Rating	/ Date / App version / SoraHLE ver.
+--->  App name / Release year / Developer,Publisher /  Rating	/ Date / App version / SoraHLE ver. / Issue / OS / GPU / Reported by  
+
