@@ -13,3 +13,4 @@
 
 "Please ensure that each entry includes a date, the game title, the application version, and a star-based rating."
 ----------------------------------------------------------------------------------------------------------------------------
+--->  App name / Release year / Developer,Publisher /  Rating	/ Date / App version / SoraHLE ver.
