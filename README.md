@@ -104,7 +104,7 @@
 
 <img width="313" height="280" alt="image" src="https://github.com/user-attachments/assets/97b46686-7f23-47da-98af-b45a2622f83c" />
 
-## ⭐️: Wolfenstein RPG | 2009 | EA Mobile | 1.1.1 | SoraHLE UNOFFICIAL fdc9231 | Cashing without user interaction | IOS 2.2.1 | RTX 5080 mobile | @dj_lutenicka
+## ⭐️⭐️⭐️⭐️⭐️:Wolfenstein RPG | 2009 | EA Mobile | 1.1.1 | SoraHLE UNOFFICIAL fdc9231 | Cashing without user interaction | IOS 2.2.1 | RTX 5080 mobile | @dj_lutenicka
 
 <img width="313" height="280" alt="image" src="https://github.com/user-attachments/assets/9e6db4c9-be92-4821-86a9-c560dbc81209" />
 
