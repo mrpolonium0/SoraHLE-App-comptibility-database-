@@ -78,7 +78,7 @@
 
 <img width="313" height="280" alt="Screenshot 2026-01-09 135349" src="https://github.com/user-attachments/assets/e5a421ec-1dd3-4a74-a112-0fec4d4edc05" />
 
-## ⭐️: Powerboat | 2009 | Fishlabs | 1.0.2 | SoraHLE UNOFFICIAL fdc9231 | Cashing without user interaction (Loading...) | IOS 2.0 | RTX 5080 mobile | @dj_lutenicka
+## ⭐️⭐️: Powerboat | 2009 | Fishlabs | 1.0.2 | SoraHLE UNOFFICIAL fdc9231 | Cashing without user interaction (Loading...) | IOS 2.0 | RTX 5080 mobile | @dj_lutenicka
 
 <img width="313" height="280" alt="image" src="https://github.com/user-attachments/assets/b51a5b7e-7d28-4e0a-8885-5372b1dfa877" />
 
