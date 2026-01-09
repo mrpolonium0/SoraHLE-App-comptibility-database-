@@ -17,9 +17,22 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## App compatibility list -->
+
+## ⭐️: Angry Birds (LITE) | 2010 | Clickgamer Technologies Ltd. | 1.3.0 | SoraHLE UNOFFICIAL fdc9231 | Cashing without user interaction | IOS 3.0 | RTX 5080 mobile | @dj_lutenicka
+
+<img width="313" height="280" alt="Screenshot 2026-01-09 150621" src="https://github.com/user-attachments/assets/2f5c0d7f-cdc4-4b22-85a3-00355b6c8ddf" />
+
+## ⭐️⭐️⭐️⭐️⭐️: Asphalt5 | 2009 | Gameloft | 1.2.6 | SoraHLE UNOFFICIAL fdc9231 | - | IOS 3.0 | RTX 5080 mobile | @DrPonx
+
+<img width="313" height="280" alt="Screenshot 2026-01-09 151211" src="https://github.com/user-attachments/assets/feba2a3c-fe8b-4512-bccf-b9a75686e0f7" />
+
 ## ⭐️: Batmobile | 2008 | Warner Bros. Interactive Entertainment | 1.1 | SoraHLE UNOFFICIAL fdc9231 | Cashing without user interaction | IOS 2.2 | RTX 5080 mobile | @DrPonx
 
 <img width="313" height="280" alt="image" src="https://github.com/user-attachments/assets/24d04fdb-9272-45d7-8804-2d9e08c57dca" />
+
+## ⭐️⭐️: BFBC 2 | 2010 |  Electronic Arts (EA) | 1.0.2 | SoraHLE UNOFFICIAL fdc9231 | Cashing without user interaction (loading...) | IOS 3.0 | RTX 5080 mobile | @dj_lutenicka
+
+<img width="313" height="280" alt="image" src="https://github.com/user-attachments/assets/db1df1ce-dc6f-46ec-9404-8055ed85713d" />
 
 ## ⭐️: CHRONO | 2011 | Square Soft | 1.0.3 | SoraHLE UNOFFICIAL fdc9231 | Cashing without user interaction | IOS 4.3 | RTX 5080 mobile | @dj_lutenicka
 
@@ -32,6 +45,10 @@
 ## ⭐️⭐️⭐️⭐️: DevilMayCry4 | 2011 | CAPCOM | 1.05.01 | SoraHLE UNOFFICIAL fdc9231 | Auto right rotation issue on Android | IOS 4.1 | Adreno 615 | @dj_lutenicka
 
 <img width="313" height="280" alt="image" src="https://github.com/user-attachments/assets/706e8a67-73fb-45a5-ae41-87ee14af19e9" />
+
+## ⭐️⭐️⭐️⭐️⭐️: Doom2rpg | 2010 | ZeniMax | 1.0 | SoraHLE UNOFFICIAL fdc9231 | - | IOS 2.0 | Adreno 615 | @dj_lutenicka
+
+<img width="313" height="280" alt="image" src="https://github.com/user-attachments/assets/45e96234-8534-4872-8e82-6c3291b143de" />
 
 ## ⭐️⭐️⭐️⭐️⭐️: EW Jim | 2009 | Gameloft | 1.0.8 | SoraHLE UNOFFICIAL fdc9231 | - | IOS 2.2.1 | RTX 5080 mobile | @dj_lutenicka
 
@@ -87,6 +104,9 @@
 
 <img width="313" height="280" alt="image" src="https://github.com/user-attachments/assets/97b46686-7f23-47da-98af-b45a2622f83c" />
 
+## ⭐️: Wolfenstein RPG | 2009 | EA Mobile | 1.1.1 | SoraHLE UNOFFICIAL fdc9231 | Cashing without user interaction | IOS 2.2.1 | RTX 5080 mobile | @dj_lutenicka
+
+<img width="313" height="280" alt="image" src="https://github.com/user-attachments/assets/9e6db4c9-be92-4821-86a9-c560dbc81209" />
 
 
 
