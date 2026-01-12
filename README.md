@@ -1,4 +1,4 @@
-# SoraHLE ACD (App compatibility database)
+# MatrixHLE ACD (App compatibility database)
 (find out what does and doesn't work!)
 
 <img width="520" height="498" alt="image" src="https://github.com/user-attachments/assets/ded62d32-ffb0-4555-b486-85e7b412c7c5" />
